@@ -4,6 +4,5 @@
         <item name="postSplashScreenTheme">@style/Theme.MainTheme</item>
         <item name="windowSplashScreenBackground">@color/yellow</item>
         <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_start_icon</item>
-        <item name="windowSplashScreenAnimationDuration">5000</item>
     </style>
 </resources>
